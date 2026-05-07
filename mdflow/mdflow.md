@@ -1,5 +1,5 @@
 
-***Privacy Policy for mdflow***
+***Privacy Policy for MD FLow Markdown Viewer and Editor ***
 
 
 **Effective Date: May 07, 2026]**
